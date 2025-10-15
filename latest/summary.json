@@ -1,0 +1,112 @@
+{
+  "overview": [
+    {
+      "dateRange": "date_range_0",
+      "totalUsers": 16.0,
+      "sessions": 21.0,
+      "newUsers": 26.0,
+      "engagedSessions": 8.0,
+      "averageSessionDuration": 147.58960157142857,
+      "bounceRate": 0.6190476190476191
+    },
+    {
+      "dateRange": "date_range_1",
+      "totalUsers": 15.0,
+      "sessions": 17.0,
+      "newUsers": 26.0,
+      "engagedSessions": 11.0,
+      "averageSessionDuration": 409.0036497058823,
+      "bounceRate": 0.35294117647058826
+    }
+  ],
+  "anomalies": {
+    "users_outliers": [],
+    "sessions_outliers": [],
+    "users_level_shifts": [],
+    "sessions_level_shifts": []
+  },
+  "pages_clean_sample": [
+    {
+      "base_path": "/",
+      "screenPageViews": 42.0,
+      "totalUsers": 30.0,
+      "engagedSessions": 17.0,
+      "averageSessionDuration": 381.92072552759737,
+      "userEngagementDuration": 560.0
+    }
+  ],
+  "channels": [
+    {
+      "sessionDefaultChannelGroup": "Direct",
+      "totalUsers": 12.0,
+      "sessions": 14.0,
+      "engagedSessions": 3.0,
+      "conversions": 0.0
+    },
+    {
+      "sessionDefaultChannelGroup": "Unassigned",
+      "totalUsers": 3.0,
+      "sessions": 5.0,
+      "engagedSessions": 3.0,
+      "conversions": 0.0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "totalUsers": 1.0,
+      "sessions": 1.0,
+      "engagedSessions": 1.0,
+      "conversions": 0.0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "totalUsers": 1.0,
+      "sessions": 1.0,
+      "engagedSessions": 1.0,
+      "conversions": 0.0
+    }
+  ],
+  "channel_cvr_sample": [],
+  "source_medium_sample": [],
+  "utm_flags": [],
+  "events_sample": [
+    {
+      "eventName": "page_view",
+      "eventCount": 42.0,
+      "totalUsers": 14.0,
+      "sessions": 18.0
+    },
+    {
+      "eventName": "session_start",
+      "eventCount": 37.0,
+      "totalUsers": 14.0,
+      "sessions": 19.0
+    },
+    {
+      "eventName": "user_engagement",
+      "eventCount": 36.0,
+      "totalUsers": 14.0,
+      "sessions": 17.0
+    },
+    {
+      "eventName": "first_visit",
+      "eventCount": 26.0,
+      "totalUsers": 13.0,
+      "sessions": 13.0
+    },
+    {
+      "eventName": "GA4 Event",
+      "eventCount": 21.0,
+      "totalUsers": 14.0,
+      "sessions": 18.0
+    },
+    {
+      "eventName": "scroll",
+      "eventCount": 13.0,
+      "totalUsers": 11.0,
+      "sessions": 12.0
+    }
+  ],
+  "conversions_focus": [],
+  "conv_overall_cvr": 0.0,
+  "preset": "full"
+}
