@@ -2,29 +2,28 @@
 Lookback: last 7 days
 
 ## Topline
-- **Users:** 16 (6.7% vs prior)
-- **Sessions:** 21 (23.5% vs prior)
-- **New Users:** 26 (0.0% vs prior)
-- **Engaged Sessions:** 8 (-27.3% vs prior)
-- **Avg Session Duration:** 2.5 min
-- **Bounce Rate:** 0.6%
+- **Users:** 19 (90.0% vs prior)
+- **Sessions:** 23 (76.9% vs prior)
+- **New Users:** 32 (100.0% vs prior)
+- **Engaged Sessions:** 7 (-41.7% vs prior)
+- **Avg Session Duration:** 2.1 min
+- **Bounce Rate:** 0.7%
 
 ## Where users land (Top pages)
-- / — 42 views, 30 users
+- / — 46 views, 35 users
 
 ## How they get here (Channels)
-- Direct: 14 sessions, 12 users
-- Unassigned: 5 sessions, 3 users
+- Direct: 17 sessions, 15 users
+- Unassigned: 7 sessions, 5 users
 - Organic Search: 1 sessions, 1 users
-- Referral: 1 sessions, 1 users
 
 ## Top events
-- page_view: 42
-- session_start: 37
-- user_engagement: 36
-- first_visit: 26
-- GA4 Event: 21
-- scroll: 13
+- page_view: 46
+- session_start: 41
+- user_engagement: 39
+- first_visit: 32
+- GA4 Event: 22
+- scroll: 15
 
 ## Conversions (focus)
 - No tracked conversions in this window
