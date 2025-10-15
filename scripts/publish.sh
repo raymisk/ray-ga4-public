@@ -10,7 +10,7 @@ fi
 
 echo "Publishing from: ${LATEST_DIR}"
 
-DEST="public_api/latest"
+DEST="latest"
 mkdir -p "${DEST}/csv" "${DEST}/plots"
 
 # core
