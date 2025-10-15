@@ -1,0 +1,13 @@
+# python/venv
+.venv/
+__pycache__/
+*.pyc
+
+# local outputs (we'll only publish via public_api/)
+out/
+*.png
+
+# secrets
+.env
+keys/
+*.json
