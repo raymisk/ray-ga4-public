@@ -35,7 +35,7 @@ cat > "${DEST}/index.json" <<JSON
 }
 JSON
 
-git add public_api
+git add latest
 git commit -m "data: publish $(basename "${LATEST_DIR}")" || true
 git push origin main
 echo "Published to GitHub Pages."
